@@ -10,7 +10,7 @@ The business problem for this example is about predicting problems caused by com
 # Data Sources
 
 Common data sources for predictive maintenance problems are :
-
+n
 * **Failure history:** The failure history of a machine or component within the machine.
 * **Maintenance history:** The repair history of a machine, e.g. error codes, previous maintenance activities or component replacements.
 * **Machine conditions and usage:** The operating conditions of a machine e.g. data collected from sensors.
