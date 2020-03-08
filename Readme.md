@@ -1,4 +1,4 @@
-Hi
+
 # Problem Description
 
 
